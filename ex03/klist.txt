@@ -1,0 +1,5 @@
+Credentials cache: API:3DAC918D-A922-4725-AF82-65E8317AEF9E
+        Principal: yismaili@1337.MA
+
+  Issued                Expires               Principal
+Sep 22 07:55:50 2021  Sep 22 17:55:24 2021  krbtgt/1337.MA@1337.MA
